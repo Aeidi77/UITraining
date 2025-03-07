@@ -1,3 +1,12 @@
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.csproj.AssemblyReference.cache
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.AssemblyInfoInputs.cache
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.AssemblyInfo.cs
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.csproj.CoreCompileInputs.cache
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.MvcApplicationPartsAssemblyInfo.cache
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.RazorAssemblyInfo.cache
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.RazorAssemblyInfo.cs
+C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.sourcelink.json
 C:\C# Lanjutan\UITraining\bin\Debug\net8.0\appsettings.Development.json
 C:\C# Lanjutan\UITraining\bin\Debug\net8.0\appsettings.json
 C:\C# Lanjutan\UITraining\bin\Debug\net8.0\UITraining.staticwebassets.runtime.json
@@ -85,14 +94,6 @@ C:\C# Lanjutan\UITraining\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.
 C:\C# Lanjutan\UITraining\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\C# Lanjutan\UITraining\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\C# Lanjutan\UITraining\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.csproj.AssemblyReference.cache
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.GeneratedMSBuildEditorConfig.editorconfig
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.AssemblyInfoInputs.cache
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.AssemblyInfo.cs
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.csproj.CoreCompileInputs.cache
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.MvcApplicationPartsAssemblyInfo.cache
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.RazorAssemblyInfo.cache
-C:\C# Lanjutan\UITraining\obj\Debug\net8.0\UITraining.RazorAssemblyInfo.cs
 C:\C# Lanjutan\UITraining\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\C# Lanjutan\UITraining\obj\Debug\net8.0\scopedcss\bundle\UITraining.styles.css
 C:\C# Lanjutan\UITraining\obj\Debug\net8.0\scopedcss\projectbundle\UITraining.bundle.scp.css
